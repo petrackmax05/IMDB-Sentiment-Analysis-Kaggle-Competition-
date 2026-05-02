@@ -8,6 +8,9 @@ This project performs sentiment analysis on movie reviews using Natural Language
 
 The project includes data cleaning, feature extraction using TF-IDF, and model building using Logistic Regression and Random Forest classifiers.
 
+#NOTICE: Due to file size being too large it is not included in this reposotory.
+Download it from https://www.kaggle.com
+Place files in the project folder before running.
 ---
 
 ## Tools & Technologies
